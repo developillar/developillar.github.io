@@ -1,0 +1,76 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+
+    
+}
+
+    .wrapper {
+        text-align: center;
+    }
+    .wrapper ul {
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+        /* For IE, the outcast */
+        zoom:1;
+        *display: inline;
+    }
+    .wrapper li {
+     
+      
+    }
+
+
+h3 {
+    font: 33px sans-serif;
+    margin-top: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Instagram */
+  .fa-instagram {
+    background: #E1306C;
+    color: white;
+  }
+  
+  /* Linkedin */
+  .fa-linkedin {
+    background: #0072b1;
+    color: white;
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+
+#edu_table{
+    border-style: groove;
+    /* border: 1px solid black; */
+}
+
